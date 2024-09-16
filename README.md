@@ -1,4 +1,4 @@
-<h1>Hi, I'm Donnie, an <a href="https://www.linkedin.com/in/donnie-hall-765738328>IT Professional</a>☺</h1>
+<h1>Hi, I'm Donnie, an <a www.linkedin.com/in/donnie-hall-765738328>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
